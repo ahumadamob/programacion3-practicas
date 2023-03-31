@@ -22,10 +22,18 @@
          "hijos":true
       },
       {
+         "nombre":"Juan Carlos Álvarez",
+         "edad": 37,
+         "telefono":"2618889900",
+         "email":"juancarlos@hotmail.com",
+         "hijos":true 
+      },
+      {
          "nombre":"",
          "edad":null,
          "telefono":"",
          "email":"",
-         "hijos":false }
+         "hijos":false 
+      }
    ]
 }
