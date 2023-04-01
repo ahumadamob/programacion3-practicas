@@ -29,11 +29,11 @@
          "hijos":true 
       },
       {
-         "nombre":"",
-         "edad":null,
-         "telefono":"",
-         "email":"",
-         "hijos":false 
+         "nombre":"Leandro Cosma",
+         "edad": 24,
+         "telefono": "2613062279",
+         "email": "lcosma@gmail.com",
+         "hijos": false 
       }
    ]
 }
