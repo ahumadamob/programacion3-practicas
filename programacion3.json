@@ -48,6 +48,13 @@
          "telefono": 2616565550,
          "email": "piccolodw@gmail.com",
          "hijos":false
+      },
+      {
+         "nombre": "Brian Rivero",
+         "edad": 21,
+         "telefono": 2613432823,
+         "email": "brianrivero940@gmail.com",
+         "hijos": false
       }
    ]
 }
