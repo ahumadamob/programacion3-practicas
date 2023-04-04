@@ -41,6 +41,13 @@
          "telefono": 2612536128,
          "email": "matias.llanos1998@gmail.com",
          "hijos":false
+      },
+      {
+         "nombre": "Gastón Piccolo",
+         "edad": 30,
+         "telefono": 2616565550,
+         "email": "piccolodw@gmail.com",
+         "hijos":false
       }
    ]
 }
