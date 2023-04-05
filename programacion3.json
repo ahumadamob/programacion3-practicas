@@ -55,6 +55,13 @@
          "telefono": 2613432823,
          "email": "brianrivero940@gmail.com",
          "hijos": false
+      },
+      {
+         "nombre": "Gastón Pulido",
+         "edad": 24,
+         "telefono": 2615754027,
+         "email": "gastonpulido10@gmail.com",
+         "hijos": false
       }
    ]
 }
