@@ -15,13 +15,6 @@
          "hijos": true
       },
       {
-         "nombre":"Noelia Caballero",
-         "edad":30,
-         "telefono":"2615555555",
-         "email":"noeliacaballero@example.com",
-         "hijos":true
-      },
-      {
          "nombre":"Juan Carlos Álvarez",
          "edad": 37,
          "telefono":"2618889900",
@@ -55,6 +48,13 @@
          "telefono": 2613432823,
          "email": "brianrivero940@gmail.com",
          "hijos": false
-      }
+      },
+      {
+         "nombre":"Noelia Caballero",
+         "edad":30,
+         "telefono":"2615555555",
+         "email":"noeliacaballero@example.com",
+         "hijos":true
+      }     
    ]
-}
+}   
