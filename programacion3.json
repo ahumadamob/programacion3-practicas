@@ -1,20 +1,60 @@
 {
-   "profesor": 
-      {
-         "nombre": "Mario Ahumada",
-         "edad": 44,
-         "telefono": "2613358705",
-         "email": "ahumadamob@gmail.com",
-         "hijos": true
-       },
+   "profesor": {
+      "nombre": "Mario Ahumada",
+      "edad": 44,
+      "telefono": "2613358705",
+      "email": "ahumadamob@gmail.com",
+      "hijos": true
+   },
    "alumnos": [
+      {
+         "nombre": "Mario Maximo DOHMEN",
+         "edad": 56,
+         "telefono": "2617225526",
+         "email": "mmdohmen@gmail.com",
+         "hijos": true
+      },
+      {
+         "nombre":"Juan Carlos Álvarez",
+         "edad": 37,
+         "telefono":"2618889900",
+         "email":"juancarl@hotmail.com",
+         "hijos":true 
+      },
+      {
+         "nombre":"Leandro Cosma",
+         "edad": 24,
+         "telefono": "2613062279",
+         "email": "lcosma@gmail.com",
+         "hijos": false
+      },
+      {
+         "nombre": "Matias Agustin Llanos Paco",
+         "edad": 24,
+         "telefono": 2612536128,
+         "email": "matias.llanos1998@gmail.com",
+         "hijos":false
+      },
+      {
+         "nombre": "Gastón Piccolo",
+         "edad": 30,
+         "telefono": 2616565550,
+         "email": "piccolodw@gmail.com",
+         "hijos":false
+      },
+      {
+         "nombre": "Brian Rivero",
+         "edad": 21,
+         "telefono": 2613432823,
+         "email": "brianrivero940@gmail.com",
+         "hijos": false
+      },
       {
          "nombre":"Noelia Caballero",
          "edad":30,
          "telefono":"2615555555",
          "email":"noeliacaballero@example.com",
          "hijos":true
-      }
+      }     
    ]
-   
-}
+}   

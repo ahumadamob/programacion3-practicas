@@ -1,0 +1,6 @@
+--------------EJERCICIO----------------------
+
+1- Crear un archivo programacion3.json (si no existe). El mismo contiene un array de objetos.
+2- Cada uno debe crear un elemento del objeto. 
+3- El objeto, representa a un alumno en donde los elementos son: nombre, edad, teléfono, email
+y un "booleano" si tiene hijos o no. 
