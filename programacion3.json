@@ -70,6 +70,13 @@
          "telefono":"2615555555",
          "email":"noeliacaballero@example.com",
          "hijos":true
+      },
+      {
+         "nombre":"JAVIER VELAZQUEZ",
+         "edad":32,
+         "telefono":"2613629309",
+         "email":"mjavivelazquez1990@gmail.com",
+         "hijos": false  
       }
    ]
 }   
