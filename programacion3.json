@@ -77,6 +77,14 @@
          "telefono":"2613629309",
          "email":"mjavivelazquez1990@gmail.com",
          "hijos": false  
-      }
+      },
+      {
+         "nombre":"Cruz Pablo",
+         "edad":42,
+         "telefono":"2616792502",
+         "email":"jemelmt@gmail.com",
+         "hijos": false  
+      },
+      
    ]
 }   
